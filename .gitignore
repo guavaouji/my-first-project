@@ -1,0 +1,20 @@
+# 一時ファイル
+*.tmp
+*.log
+
+# OS固有ファイル
+.DS_Store
+Thumbsd.b
+
+# IDEの設定ファイル
+.vscode/
+.idea/
+
+# 秘密応報
+.env
+config/secrets.yml
+
+# ビルド成果物
+build/
+dist/
+*.exe
