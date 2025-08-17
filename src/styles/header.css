@@ -2,4 +2,5 @@
     margin-top: 15px;
     margin-left: 20px;
     vertical-align: middle;
+    *vertical-align: auto; /* IE用のフォールバック */
 }
